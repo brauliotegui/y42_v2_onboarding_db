@@ -1,10 +1,11 @@
 {
   "$schema": "https://s.y42.com/integrations/file-upload/0.0.0/source.json#csv",
   "content-type": "text/csv",
-  "uploadTarget": "https://storage.googleapis.com/upload/storage/v1/b/y42_v2onboarding_7852e4988099456c866ab5a4b8728223/o?uploadType=resumable&upload_id=ADPycdtryUgV3sOh5oq_1rogO9-outN3Lhf73LdcS4SkN3zlgwVYCH5oxNlEt23kHc1bIQEEpARU_PhtNxoOMzwzQ3fxnQ",
+  "uploadTarget": "https://storage.googleapis.com/upload/storage/v1/b/y42_v2onboarding_888aa2b65a01460db61219d14c093b2b/o?uploadType=resumable&upload_id=ADPycduuql6Q-3ieKOfipCNVJLVSM5EMxfQ0UTrPioNowWDzvnKBpeGis8lMDSGeHIeHEzhnXowXSSwPL8ig0FHIN53RBw",
   "originalName": "fb_ads_mock_data.csv",
   "size": "1387061",
-  "uri": "gs://y42_v2onboarding_7852e4988099456c866ab5a4b8728223/userUploads/v2/48/file-upload/f652f91b-dfc5-44ea-9b43-8e1f353837f8",
+  "uri": "gs://y42_v2onboarding_888aa2b65a01460db61219d14c093b2b/userUploads/v2/49/file-upload/35febc27-188e-48a8-b644-db7f5f1bcdfb",
+  "reupload": true,
   "csv_options": {
     "field_delimiter": ",",
     "allow_quoted_new_lines": true,
