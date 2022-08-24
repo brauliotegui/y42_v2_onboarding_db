@@ -1,10 +1,11 @@
 {
   "$schema": "https://s.y42.com/integrations/file-upload/0.0.0/source.json#csv",
   "content-type": "text/csv",
-  "uploadTarget": "https://storage.googleapis.com/upload/storage/v1/b/y42_v2onboarding_7852e4988099456c866ab5a4b8728223/o?uploadType=resumable&upload_id=ADPycduxMzGUGOg2iRg3xVWAgBZKxXZP-Z0bkJ1IPRDs9tGtIjG42VnwQGCpfbfOMGmu5JuXmadkI4IauhtRZv0OwGTa-Q",
+  "uploadTarget": "https://storage.googleapis.com/upload/storage/v1/b/y42_v2onboarding_888aa2b65a01460db61219d14c093b2b/o?uploadType=resumable&upload_id=ADPycduL1BPbe3ccJswfJNPezY24lG24-HVGHWOHctAuWkmDO18a0rdy6-3-Y79_S4Y6hiZ5jI3brcP2MFCIpEDOlvOeV-5yRQCn",
   "originalName": "google_ads_mock_data.csv",
   "size": "7574198",
-  "uri": "gs://y42_v2onboarding_7852e4988099456c866ab5a4b8728223/userUploads/v2/48/file-upload/a164ef60-6844-4ec3-a324-b47e80737280",
+  "uri": "gs://y42_v2onboarding_888aa2b65a01460db61219d14c093b2b/userUploads/v2/49/file-upload/a700a4cf-3ab6-4cd5-bbf1-583acaa57fe1",
+  "reupload": true,
   "csv_options": {
     "field_delimiter": ",",
     "allow_quoted_new_lines": true,
