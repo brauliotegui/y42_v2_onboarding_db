@@ -121,6 +121,17 @@
             "target": "account_id",
             "source": "account",
             "type": "STRING",
+            "display": false,
+            "changed": false,
+            "description": "",
+            "source_alias": "",
+            "applied": true,
+            "sourceTypeChanged": false
+          },
+          {
+            "target": "spend",
+            "source": "cost",
+            "type": "INTEGER",
             "display": true,
             "changed": false,
             "description": "",
